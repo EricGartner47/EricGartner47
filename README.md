@@ -8,6 +8,7 @@
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/eric-gartner-731907a0/)
 - 😄 Pronouns: He / Him
 - ⚡ Fun fact: I am learning Ukrainian 
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ericgartner47)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- [![Eric's GitHub stats](https://github-readme-stats.vercel.app/api?username=ericgartner47)](https://github.com/anuraghazra/github-readme-stats) -->
