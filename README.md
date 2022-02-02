@@ -11,3 +11,5 @@
 
 <!-- [![Eric's GitHub stats](https://github-readme-stats.vercel.app/api?username=ericgartner47)](https://github.com/anuraghazra/github-readme-stats) -->
 ![Eric's GitHub stats](https://github-readme-stats.vercel.app/api?username=ericgartner47&show_icons=true&theme=tokyonight)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ericgartner47)](https://github.com/anuraghazra/github-readme-stats)
