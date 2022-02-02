@@ -10,3 +10,4 @@
 - ⚡ Fun fact: I am learning Ukrainian 
 
 [![Eric's GitHub stats](https://github-readme-stats.vercel.app/api?username=ericgartner47)](https://github.com/anuraghazra/github-readme-stats)
+![Eric's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dracula)
